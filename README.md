@@ -11,7 +11,7 @@ In this project, I practiced building an ETL pipeline to process crowdfunding da
 ##### Create and populate PostgreSQL database tables
 
 # Usage
-Run the Jupyter Notebook to extract and transform data, and create CSV files.
+#####4. Run the Jupyter Notebook to extract and transform data, and create CSV files.
 Use the provided crowdfunding_db_schema.sql file to create tables in the PostgreSQL database.
 Load the CSV files into the corresponding PostgreSQL tables.
 Query the database to verify the data has been loaded correctly.
