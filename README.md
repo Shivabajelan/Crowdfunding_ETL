@@ -14,8 +14,8 @@ In this project, I practiced building an ETL  pipeline to process crowdfunding d
 *  1.Run the Jupyter Notebook to extract and transform data, and create CSV files.
 *  2.Use the provided crowdfunding_db_schema.sql file to create tables in the PostgreSQL database.
 *  3.Load the CSV files into the corresponding PostgreSQL tables.
-*  4.Query the database to verify the data has been loaded correctly.
-# Built With
+*4.Query the database to verify the data has been loaded correctly.
+## Built With
 *  Python
 *  Pandas
 *  PostgreSQL
